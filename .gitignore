@@ -1,0 +1,9 @@
+# JetBrains IDEs
+/.idea/
+
+# Visual Studio Code
+/.vscode/
+
+# dotenv environment variables file
+.env*
+!/.env.dist
